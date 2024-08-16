@@ -1,0 +1,266 @@
+{
+  "subscribers": [
+    {
+      "id": 1,
+      "name": "Leon Pollich I"
+    },
+    {
+      "id": 2,
+      "name": "Amos Parker"
+    },
+    {
+      "id": 3,
+      "name": "Antonia Donnelly"
+    },
+    {
+      "id": 4,
+      "name": "Stacey Waelchi"
+    },
+    {
+      "id": 5,
+      "name": "Rene Pfeffer"
+    },
+    {
+      "id": 6,
+      "name": "Elmer Halvorson"
+    },
+    {
+      "id": 7,
+      "name": "Lana Jones"
+    },
+    {
+      "id": 8,
+      "name": "Jimmie Kautzer"
+    },
+    {
+      "id": 9,
+      "name": "Austin Stehr"
+    },
+    {
+      "id": 10,
+      "name": "Mr. Lowell Effertz"
+    },
+    {
+      "id": 11,
+      "name": "Diana Sipes DVM"
+    },
+    {
+      "id": 12,
+      "name": "Wayne Bechtelar"
+    },
+    {
+      "id": 13,
+      "name": "Winston Nolan"
+    },
+    {
+      "id": 14,
+      "name": "Micheal Crona"
+    },
+    {
+      "id": 15,
+      "name": "Roland Koss"
+    },
+    {
+      "id": 16,
+      "name": "Rachel Green"
+    },
+    {
+      "id": 17,
+      "name": "Emma Hudson"
+    },
+    {
+      "id": 18,
+      "name": "Dr. Terrance Lebsack"
+    },
+    {
+      "id": 19,
+      "name": "Geoffrey Nienow"
+    },
+    {
+      "id": 20,
+      "name": "Dr. Trevor Huel"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "subscriberId": 6,
+      "amountInUsd": 28.14,
+      "date": "2024-08-14T19:06:29.368Z"
+    },
+    {
+      "id": 2,
+      "subscriberId": 5,
+      "amountInUsd": 31.13,
+      "date": "2024-08-12T02:20:31.195Z"
+    },
+    {
+      "id": 3,
+      "subscriberId": 9,
+      "amountInUsd": 39.15,
+      "date": "2024-08-12T01:37:31.174Z"
+    },
+    {
+      "id": 4,
+      "subscriberId": 15,
+      "amountInUsd": 48.7,
+      "date": "2024-08-06T13:41:35.473Z"
+    },
+    {
+      "id": 5,
+      "subscriberId": 17,
+      "amountInUsd": 22.73,
+      "date": "2024-08-04T23:20:01.597Z"
+    },
+    {
+      "id": 6,
+      "subscriberId": 18,
+      "amountInUsd": 48.19,
+      "date": "2024-08-03T08:20:37.562Z"
+    },
+    {
+      "id": 7,
+      "subscriberId": 11,
+      "amountInUsd": 31.25,
+      "date": "2024-07-28T09:06:56.165Z"
+    },
+    {
+      "id": 8,
+      "subscriberId": 1,
+      "amountInUsd": 47.9,
+      "date": "2024-07-12T07:34:25.123Z"
+    },
+    {
+      "id": 9,
+      "subscriberId": 17,
+      "amountInUsd": 45.96,
+      "date": "2024-07-05T18:41:33.008Z"
+    },
+    {
+      "id": 10,
+      "subscriberId": 5,
+      "amountInUsd": 45.01,
+      "date": "2024-07-05T09:22:35.797Z"
+    },
+    {
+      "id": 11,
+      "subscriberId": 17,
+      "amountInUsd": 42.76,
+      "date": "2024-06-28T14:11:08.745Z"
+    },
+    {
+      "id": 12,
+      "subscriberId": 6,
+      "amountInUsd": 11.81,
+      "date": "2024-06-28T00:30:23.685Z"
+    },
+    {
+      "id": 13,
+      "subscriberId": 14,
+      "amountInUsd": 14.6,
+      "date": "2024-06-25T21:38:09.848Z"
+    },
+    {
+      "id": 14,
+      "subscriberId": 15,
+      "amountInUsd": 47.74,
+      "date": "2024-06-20T14:42:29.715Z"
+    },
+    {
+      "id": 15,
+      "subscriberId": 17,
+      "amountInUsd": 38.61,
+      "date": "2024-05-30T06:12:21.593Z"
+    },
+    {
+      "id": 16,
+      "subscriberId": 1,
+      "amountInUsd": 37.33,
+      "date": "2024-05-15T12:59:40.670Z"
+    },
+    {
+      "id": 17,
+      "subscriberId": 6,
+      "amountInUsd": 25.58,
+      "date": "2024-05-10T19:37:34.559Z"
+    },
+    {
+      "id": 18,
+      "subscriberId": 17,
+      "amountInUsd": 44.12,
+      "date": "2024-04-24T00:29:13.840Z"
+    },
+    {
+      "id": 19,
+      "subscriberId": 17,
+      "amountInUsd": 19.88,
+      "date": "2024-03-22T21:13:11.315Z"
+    },
+    {
+      "id": 20,
+      "subscriberId": 6,
+      "amountInUsd": 21.28,
+      "date": "2024-03-21T01:46:27.635Z"
+    },
+    {
+      "id": 21,
+      "subscriberId": 1,
+      "amountInUsd": 25.45,
+      "date": "2024-03-04T09:06:38.226Z"
+    },
+    {
+      "id": 22,
+      "subscriberId": 15,
+      "amountInUsd": 40.93,
+      "date": "2024-02-24T07:57:06.985Z"
+    },
+    {
+      "id": 23,
+      "subscriberId": 17,
+      "amountInUsd": 15.27,
+      "date": "2024-02-18T10:26:55.013Z"
+    },
+    {
+      "id": 24,
+      "subscriberId": 6,
+      "amountInUsd": 8.17,
+      "date": "2024-01-21T02:45:24.287Z"
+    },
+    {
+      "id": 25,
+      "subscriberId": 1,
+      "amountInUsd": 41.11,
+      "date": "2024-01-08T21:49:29.542Z"
+    },
+    {
+      "id": 26,
+      "subscriberId": 15,
+      "amountInUsd": 41,
+      "date": "2024-01-07T15:53:19.716Z"
+    },
+    {
+      "id": 27,
+      "subscriberId": 17,
+      "amountInUsd": 11.73,
+      "date": "2024-01-01T18:56:51.018Z"
+    },
+    {
+      "id": 28,
+      "subscriberId": 17,
+      "amountInUsd": 40.87,
+      "date": "2023-12-10T19:47:57.713Z"
+    },
+    {
+      "id": 29,
+      "subscriberId": 6,
+      "amountInUsd": 34.96,
+      "date": "2023-11-26T18:45:59.733Z"
+    },
+    {
+      "id": 30,
+      "subscriberId": 17,
+      "amountInUsd": 27.84,
+      "date": "2023-11-26T00:56:39.688Z"
+    }
+  ]
+}
